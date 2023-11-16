@@ -6,9 +6,9 @@
 
 - Such questions require models to go beyond retrieving direct factual knowledge from the Web: they must identify the right information to retrieve and reason about an imagined situation that may even go against the facts built into their parameters. 
 
-- The IfQA dataset contains 3,800 questions that were annotated by crowdworkers on relevant Wikipedia passages. We hope the unique challenges posed by IfQA will push open-domain QA research on both retrieval and reasoning fronts, while also helping endow counterfactual reasoning abilities to today's language understanding models.
+- The IfQA dataset contains 3,800 questions annotated by crowdworkers. We hope the unique challenges posed by IfQA will push open-domain QA research on both retrieval and reasoning fronts, while also helping endow counterfactual reasoning abilities to today's language understanding models.
 
-<img src="images/ifqa.png" width="600" align=center>
+<img src="images/ifqa.png" width="800" align=center>
 
 ### Citation
 
